@@ -2,4 +2,4 @@
 
 Repositorio Portafolio / CV - v1
 
-Preview: [Link](https://abelalejandrodev.github.io/test/)
+Preview: [Link](https://abelalejandrodev.github.io/v1-portfolio/)
